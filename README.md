@@ -1,5 +1,5 @@
+[![MasterHead](https://images.squarespace-cdn.com/content/v1/5c4ece0e3917ee277d32eaf3/1570273144470-81IYS54BBS2A2309YBY5/nightlife.gif?format=750w)](https://www.linkedin.com/in/nishad-shubham/)
 
-<img align='right' src="https://images.squarespace-cdn.com/content/v1/5c4ece0e3917ee277d32eaf3/1570273144470-81IYS54BBS2A2309YBY5/nightlife.gif?format=750w" width="500">
 
 <h1 align="center">Hi 👋, I'm Shubham<img src="https://media.giphy.com/media/INWvHtY18ElyvtEdS2/giphy.gif" width="50"></h1>
 <h3 align="center">A passionate frontend developer from India</h3>
