@@ -44,6 +44,6 @@ const shubh = {
  challenge: "I am doing the #100DaysOfCode challenge focused on React and DSA"
 }
 ```
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=shubh-ummm&show_icons=true&locale=en" alt="shubh-ummm" width="450"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=shubh-ummm&show_icons=true&locale=en" alt="shubh-ummm" width="410"/></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=shubh-ummm&" alt="shubh-ummm" width="450"/></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=shubh-ummm&" alt="shubh-ummm" width="410"/></p>
